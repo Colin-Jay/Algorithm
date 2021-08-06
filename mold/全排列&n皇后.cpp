@@ -1,4 +1,4 @@
-//按照字典序进行全排列
+//按照字典序进行全排列&n皇后
 #include <iostream>
 #include <cstring>
 #include <cmath>
